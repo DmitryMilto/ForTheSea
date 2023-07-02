@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &6462605678153954978
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6524670888302032806, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: -784696273, guid: f9697a725a697374b86e9c3bbe931989, type: 3}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.okStates.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.badStates.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.okStates.Array.data[0]
+      value: 
+      objectReference: {fileID: 7400000, guid: c7c155b7db98f804a842d035850fece4, type: 2}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.badStates.Array.data[0]
+      value: 
+      objectReference: {fileID: 7400000, guid: ce7b878a555507244bf7fdfd0c39480e, type: 2}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.badStates.Array.data[1]
+      value: 
+      objectReference: {fileID: 7400000, guid: dd14660c0a26360479bdf6d8bd41c291, type: 2}
+    - target: {fileID: 6524670888702865737, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: animatorStates.badStates.Array.data[2]
+      value: 
+      objectReference: {fileID: 7400000, guid: a6a104ff66e778f4d9818c2367d2ef75, type: 2}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865738, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670888702865741, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_Name
+      value: '[Crab minigame - Item variant] 02. Seal'
+      objectReference: {fileID: 0}
+    - target: {fileID: 6524670889691870106, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}
+      propertyPath: m_Controller
+      value: 
+      objectReference: {fileID: 9100000, guid: c851480d879b3a548b1c63783df0387f, type: 2}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 43b8f966e0623a24aaf151686a67fb7e, type: 3}

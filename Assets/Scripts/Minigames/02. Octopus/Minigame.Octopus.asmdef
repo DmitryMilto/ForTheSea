@@ -1,0 +1,22 @@
+{
+    "name": "Minigame.Octopus",
+    "rootNamespace": "",
+    "references": [
+        "GUID:247a163e3cc6efb42bd22b9023b87ff3",
+        "GUID:82c7e6eac44d7e048b22ad98800dcfc7",
+        "GUID:cc9b1dbcea8af584ba492afeb67a12da",
+        "GUID:f75c990690621b84393637a5bbdd0267",
+        "GUID:35efa710a3612b74487e881fe5ea5434",
+        "GUID:fcb2388e39336064dad4c2d07b81c6fb",
+        "GUID:d2597269ec47e3140b82389dc96e8bae"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

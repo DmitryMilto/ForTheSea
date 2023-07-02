@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5a634d68936b646b44f513729b9981, type: 3}
+  m_Name: '[Turtle] 03. Oil'
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 6294387313131048796, guid: 1e9035d330a2b6849b37233675d85a75, type: 3}
+  value: 10
+  spawnChance: 1
+  visibilityDurationMultiplier: 1
+  decreaseLivesOnMiss: 1

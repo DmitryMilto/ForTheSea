@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: c786506d6269b094cbc1aba06dda9383
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - notificationLibrary: {fileID: 11400000, guid: b7ecee320c4855b4a864b9fc2959ef5c, type: 2}
+  - container: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

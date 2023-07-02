@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ad5a634d68936b646b44f513729b9981, type: 3}
+  m_Name: '[Seahorse minigame - Item settings] 05. Seahorse (Trap)'
+  m_EditorClassIdentifier: 
+  prefab: {fileID: 752827695623685896, guid: 222732027167d0c4b9632eceefc8fa1f, type: 3}
+  value: 10
+  spawnChance: 0.25
+  visibilityDurationMultiplier: 1
+  decreaseLivesOnMiss: 0
+  minValue: 100
+  maxValue: 125
+  changeRandom: 10
